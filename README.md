@@ -1,9 +1,11 @@
-# reaction_time_test_macro
+# Reaction Time Test Macro
 
 ## How To Use
 1. Go to https://humanbenchmark.com/tests/reactiontime
 2. Open console
 3. Copy & paste the following code
+
+---
 
 ```js
 // Reaction Time Test Macro
