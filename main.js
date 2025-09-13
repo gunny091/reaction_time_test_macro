@@ -2,7 +2,7 @@
 // for https://humanbenchmark.com/tests/reactiontime
 // by https://chadol.xyz/
 
-const divQuery = "css-yg2dtu";
+const divQuery = "div.css-yg2dtu";
 const screenNamesToClick = ["go", "result", "splash"];
 const screenNamesToStop = ["score"];
 const macroLoopDelay = 1;
